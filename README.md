@@ -7,7 +7,7 @@ useful for the new project I'll be joining.
 
 ## 📜📄 Resume of mine:
 [![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
-](https://drive.google.com/file/d/1eNgCnHS_imHpj0jreSW7AxPv2j18jsGT/view) 
+](https://drive.google.com/file/d/19_NJ4JB3xkeY-qOVjNthT4fv8BmRXnEb/view) 
 
 ## 🌐 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandrkolomiiets/) 
