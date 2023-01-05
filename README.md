@@ -1,9 +1,9 @@
 
 # Hi there, I'm Sasha 👾
 
-<h4>I'm a <b>Front-end Developer</b> with a more than 1 year of full-time experience in frontend development and nearly 100 closed development tasks.<br>
+I'm a <b>Front-end Developer</b> with a more than 1 year of full-time experience in frontend development and nearly 100 closed development tasks.<br>
 Really fascinated to create flexible and user-friendly websites and web applications. Believe my skills will be
-useful for the new project I'll be joining.</h4>
+useful for the new project I'll be joining.
 
 ## 📜📄 Resume of mine:
 [![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
