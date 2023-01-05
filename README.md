@@ -1,7 +1,6 @@
 
 # Hi there, I'm Sasha 👾
 
-## 🖥 About Me:
 I'm a Front-end Developer with a more than 1 year of full-time experience in frontend development and nearly 100 closed development tasks.<br>
 Really fascinated to create flexible and user-friendly websites and web applications. Believe my skills will be
 useful for the new project I'll be joining.
