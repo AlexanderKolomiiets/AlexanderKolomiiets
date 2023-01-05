@@ -1,7 +1,7 @@
 
 # Hi there, I'm Sasha 👾
 
-# 🖥 About Me:
+## 🖥 About Me:
 I'm a Front-end Developer with a more than 1 year of full-time experience in frontend development and nearly 100 closed development tasks.<br>
 Really fascinated to create flexible and user-friendly websites and web applications. Believe my skills will be
 useful for the new project I'll be joining.
@@ -12,7 +12,7 @@ useful for the new project I'll be joining.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sashakolomiiets)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](oleksandr.kolomiiets.work@gmail.com)
 
-# ⚙ Tech Stack:
+## ⚙ Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
