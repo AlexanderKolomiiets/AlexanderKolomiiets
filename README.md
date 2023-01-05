@@ -6,6 +6,9 @@ I'm a Front-end Developer with a more than 1 year of full-time experience in fro
 Really fascinated to create flexible and user-friendly websites and web applications. Believe my skills will be
 useful for the new project I'll be joining.
 
+## 📜📄 Resume of mine:
+[![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
+](https://drive.google.com/file/d/1eNgCnHS_imHpj0jreSW7AxPv2j18jsGT/view) 
 
 ## 🌐 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandrkolomiiets/) 
